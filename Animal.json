@@ -1,0 +1,16 @@
+{
+  "animalID": 1,
+  "species": "King Cobra",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Downward",
+  "Sighting": [{
+    "sightingID": 1,
+    "date": "4/20/20",
+    "location": "India",
+    "PeopleSighters": [{
+      "PeopleSightersID": 1,
+      "name": "Sheryl Crowe"
+    }]
+  }]
+
+}
