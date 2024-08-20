@@ -1,0 +1,21 @@
+{
+  "scientistID": 1,
+  "name": "Devon Matthews",
+  "expertise": "Conservation Expert",
+  "Conservatory": [{
+    "conservatoryID": 1,
+    "name": "Great Wildlife reserve of Africa",
+    "location": "Senegal"
+  }],
+  "conservationEfforts": [{
+    "conservationID": 1,
+    "description": "breeding",
+    "dateInitiated": "4/30/2020",
+    "People": [{
+      "PeopleID": 1,
+      "name": "Sheryl Crowe",
+      "contactInfo": "713-456-7574",
+      "role": "researcher"
+    }]
+  }]
+}
